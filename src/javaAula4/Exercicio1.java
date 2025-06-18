@@ -14,10 +14,16 @@ public class Exercicio1 {
 			System.out.printf("Digite a %dª nota: ",i+1);
 			notas[i]=input.nextDouble();
 		}
-		for(int j=0;j<notas.length;j++)
+		/*for(int j=0;j<notas.length;j++)
 		{
 			soma+=notas[j];
+		}*/
+		
+		for(double i:notas)
+		{
+			soma +=i;
 		}
+		
 		double media = soma/(notas.length);
 		
 		System.out.printf("A média da turma é: %.1f",media);
