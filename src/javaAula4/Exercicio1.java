@@ -22,6 +22,8 @@ public class Exercicio1 {
 		
 		System.out.printf("A média da turma é: %.1f",media);
 		
+		input.close();
+		
 	}
 
 }
