@@ -22,7 +22,7 @@ public class ExercicioTexto2 {
 		System.out.printf("O texto inserido tem %d caracteres",qtd);
 		
 		
-		
+		input.close();
 		
 		
 		

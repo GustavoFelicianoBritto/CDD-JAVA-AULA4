@@ -1,9 +1,9 @@
 package javaAula4;
-import java.util.Arrays;
 
 public class Exercicio2 {
 	
-	public static void main(String[] args) {
+	public static void main(String[] args)
+	{
 		
 		String A[]= {"G","u","s","t","a","v","o"};
 		
