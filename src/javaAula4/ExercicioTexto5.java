@@ -1,6 +1,6 @@
 package javaAula4;
 
-public class ExercicioTexto6 {
+public class ExercicioTexto5 {
 
 	public static void main(String[] args) {
 		
